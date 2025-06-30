@@ -1,0 +1,5 @@
+environment         = "dev"
+location            = "eastus"
+location_short      = "eus"
+resource_group_name = "rg-opella-dev-eastus"
+subscription_id      = "55814ee4-37f2-4a75-a448-cf2683a410c3"
