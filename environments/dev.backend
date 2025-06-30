@@ -1,0 +1,4 @@
+resource_group_name  = "rg-opella-dev-eastus"
+storage_account_name = "devopellatfstate"
+container_name       = "dev-tfstate"
+key                  = "opella-dev.terraform.tfstate"
